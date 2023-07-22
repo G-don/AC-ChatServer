@@ -3,7 +3,11 @@
 ![image](https://github.com/G-don/AC-ChatServer/blob/main/Chat%20Server/Visuals/1.png)
 ![image](https://github.com/G-don/AC-ChatServer/blob/main/Chat%20Server/Visuals/2.png)
 
+##TechStack
 
+<p align="left">
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/java-original.svg" alt="java" width="60" height="60"/>
+</p>
 
 ## Description
 
