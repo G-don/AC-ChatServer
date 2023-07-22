@@ -1,4 +1,4 @@
-# Chat Server aka girc
+# Chat Server 
 
 ![image](https://github.com/G-don/AC-ChatServer/blob/main/Chat%20Server/Visuals/1.png)
 ![image](https://github.com/G-don/AC-ChatServer/blob/main/Chat%20Server/Visuals/2.png)
